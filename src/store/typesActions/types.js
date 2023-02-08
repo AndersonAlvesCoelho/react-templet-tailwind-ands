@@ -1,0 +1,20 @@
+export const auth = {
+  AUTH_REQUEST: "@api/AUTH_REQUEST",
+  AUTH_SUCCESS: "@api/AUTH_SUCCESS",
+  AUTH_FAILURE: "@api/AUTH_FAILURE",
+};
+
+export const cnpj = {
+  GET_CNPJ_REQUEST: "@api/GET_CNPJ_REQUEST",
+  GET_CNPJ_SUCCESS: "@api/GET_CNPJ_SUCCESS",
+  GET_CNPJ_FAILURE: "@api/GET_CNPJ_FAILURE",
+};
+
+export const cnae = {
+  GET_CNAE_REQUEST: "@api/GET_CNAE_REQUEST",
+  GET_CNAE_SUCCESS: "@api/GET_CNAE_SUCCESS",
+  GET_CNAE_FAILURE: "@api/GET_CNAE_FAILURE",
+};
+
+
+
